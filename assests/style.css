@@ -1,0 +1,35 @@
+.main {
+    background-color: #f8fafc;
+}
+
+[data-testid="stMetric"] {
+    background-color: white;
+    border: 1px solid #e2e8f0;
+    padding: 15px;
+    border-radius: 12px;
+}
+
+h1 {
+    color: #1e3a8a;
+}
+
+h2 {
+    color: #1e40af;
+}
+
+.stButton > button {
+    width: 100%;
+    border-radius: 10px;
+    font-weight: bold;
+    padding: 10px;
+}
+
+[data-testid="stSidebar"] {
+    background-color: #f1f5f9;
+}
+
+.stDownloadButton > button {
+    width: 100%;
+    border-radius: 10px;
+    font-weight: bold;
+}
